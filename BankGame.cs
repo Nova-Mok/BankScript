@@ -60,7 +60,7 @@ namespace HabboBankGame
             VIPs = new List<string>();
             rareGains = new Dictionary<int, BotFramework.Room.Items.Point>()
             {
-                { 706235217, new BotFramework.Room.Items.Point(2, 1) }, // rare gain #1
+                { 706235217, new BotFramework.Room.Items.Point(2, 1) }, // rare gain #01
                 { 706235305, new BotFramework.Room.Items.Point(2, 1) }, // rare gain #2
                 { 706235353, new BotFramework.Room.Items.Point(2, 1) }, // rare gain #3
                 { 706235361, new BotFramework.Room.Items.Point(2, 1) }, // rare gain #4
